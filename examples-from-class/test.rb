@@ -1,1 +1,1 @@
-puts "no one man should have all that power"
+puts "no one man have all that power"
