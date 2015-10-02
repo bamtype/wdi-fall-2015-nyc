@@ -1,0 +1,1 @@
+puts "no one man should have all that power"
